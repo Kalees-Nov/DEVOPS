@@ -1,0 +1,73 @@
+DEVOPS ===> Development + Operation
+
+
+SDLC =====> Software Deveopment Life Cycle
+
+Proceess Of SDLC(software Development Life Cycle):
+1.Requirements
+2.Analysis
+3.Design
+4.Developer(code build)
+5.Testing
+6.Verification and Release
+
+This Proceess followed by make three methodlogies:
+1.Water Fall methodlogy
+2.Agile methodlogy
+3.Devops methodlogy
+
+Water Fall methodlogy:
+    Linear Sequence it's traditional way
+Analysis ==> design ==> implementation ==> testing ==> Maintenance
+inflexibility Changes ===> phase is complete
+late Testing ===> project high risk
+customer involement ===> not user satisfication
+delivery delayed
+
+Agile Methodlogy:
+    iterative and flexible approach
+    Sprint meeting
+
+Advaandages:
+    Flexibility ===> mad changes any step
+    Customer colabaration
+    delivery time reduced
+    team colloboration
+    improving Quality
+
+Disadvantages:
+    Less predictability ===>budget and time
+    Required Experience team
+    meassuring progress ===> agile method focus iterative so it's fully focus on Testing And Developers
+
+
+Devops methodlogy:
+
+    Devops Focus on Fully Automation
+    FAstest Delivery
+    Scalability
+
+Devops Stages:
+ 
+    1.Source code Management ==> git,githup
+    2.continues integration ==> jenkins
+    3.Continues Monitoring
+    4.continues conficaration
+    5.continues Deploy
+    6.continues testing
+    7.continues feedback
+
+Git===> version Control
+Githup==> remote repository
+
+Types of version Control:
+    1.Local version control
+    2.centralized version control
+    3.Distributed version control
+
+Git Components:
+    1.Working Directory 
+    2.Staging Area
+    3.Local Repo
+    4.Remote Repo ===> Githup
+    // this is used to devops methodlogy steps//
